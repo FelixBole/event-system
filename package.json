@@ -1,6 +1,6 @@
 {
 	"name": "com.slax.eventsystem",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"displayName": "Event System",
 	"description": "An Event System using Scriptable Objects as Event Channels",
 	"unity": "2019.1",
