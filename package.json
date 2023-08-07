@@ -1,18 +1,34 @@
 {
 	"name": "com.slax.eventsystem",
-	"version": "1.0.2",
+	"version": "1.1.0",
 	"displayName": "Event System",
 	"description": "An Event System using Scriptable Objects as Event Channels",
 	"unity": "2019.1",
-	"unityRelease": "0b5",
 	"keywords": [
 		"EventSystem",
 		"Events"
 	],
 	"author": {
+		"url": "https://github.com/FelixBole",
 		"name": "Felix Bole",
 		"email": "felix.slax@gmail.com"
 	},
+	"files": [
+		"Documentation/**",
+		"Documentation.meta",
+		"Editor/**",
+		"Editor.meta",
+		"Runtime/**",
+		"Runtime.meta",
+		"Samples/**",
+		"Samples.meta",
+		"CHANGELOG.md",
+		"CHANGELOG.meta",
+		"LICENSE.md",
+		"LICENSE.meta",
+		"README.md",
+		"README.meta"
+	],
 	"samples": [
 		{
 			"displayName": "Example Event Channels",
